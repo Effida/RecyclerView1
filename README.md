@@ -1,10 +1,10 @@
 # Judul Project : RecyclerView1
 # Screenshot :
-Gambar 1: 
-![alt text](https://github.com/Effida/RecyclerView1/blob/master/1.PNG "Gambar 1")
+Gambar List Persegi: 
+![alt text](https://github.com/Effida/RecyclerView1/blob/master/1.PNG "Gambar List Persegi")
 
-Gambar 2: 
-![alt text](https://github.com/Effida/RecyclerView1/blob/master/2.PNG "Gambar 2")
+Gambar List Lingkaran: 
+![alt text](https://github.com/Effida/RecyclerView1/blob/master/2.PNG "Gambar List Lingkaran")
 
 ### Identitas
 + Nama : Effida Nur Maulidiyah
